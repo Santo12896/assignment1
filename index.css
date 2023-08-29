@@ -67,7 +67,7 @@ header {
     text-align: center;
     font-size: 40px;
     font-weight: 800;
-    margin-top: 128px;
+    margin: 128px 0 24px 0;
 }
 
 .bonus-contend {
@@ -76,13 +76,15 @@ header {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-    margin: 24px 0 48px 700px;
+    margin: auto;
+    /* margin: 24px 0 48px 0; */
 }
 
 .bonus-section {
     display: flex;
     justify-content: center;
     margin: auto;
+    margin-top: 48px;
 }
 
 .bonus-img-bg1 {
@@ -237,7 +239,8 @@ header {
 /* Instagram section */
 .instagram-section {
     width: 1440px;
-    margin-left: 350px;
+    /* margin-left: 350px; */
+    margin: auto;
 }
 
 .instagram-section h1 {
@@ -335,7 +338,8 @@ footer {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-    margin-left: 35%;
+    /* margin-left: 35%; */
+    margin: auto;
     padding: 24px 0 32px 0;
 }
 
